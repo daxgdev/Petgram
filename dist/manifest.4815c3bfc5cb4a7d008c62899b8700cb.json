@@ -1,0 +1,54 @@
+{
+  "icons": [
+    {
+      "src": "/icon_1024x1024.2a3ec3acda6044fa6caa38609adde5b9.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_1024x1024.2a3ec3acda6044fa6caa38609adde5b9.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.dc0b3a6026bb36ce5a918f850e0951f5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a0088dab82945c767096003964d270b3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.7569ad5b4c9a177361be1407f8564d62.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1daf957cb5a335266eb42264bd1280ed.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c28b70dbd38877613221a39030ec52ed.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.573724a65e5b065a5dbae19597c8714f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Petgram - Tu app social de mascotas",
+  "short_name": "Petgram 🦊",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Con Petgram puedes encontrar y subir fotos de animales domésticos.",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "scope": "/"
+}
